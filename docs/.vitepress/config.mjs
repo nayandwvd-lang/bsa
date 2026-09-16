@@ -53,7 +53,8 @@ export default defineConfig({
         text: 'Chapters',
         items: [
           // Fill in as chapters are written. Do not list a page before it exists.
-          { text: 'Relevancy of facts', link: '/chapters/chapter-02' }
+          { text: 'Chapter I — Preliminary (ss. 1-2)', link: '/chapters/chapter-01' },
+          { text: 'Ch. V — Electronic records (ss. 61-63)', link: '/chapters/chapter-05' }
         ]
       },
       { text: 'Drafting toolkit', link: '/drafts/' }
@@ -67,11 +68,17 @@ export default defineConfig({
           text: 'Preliminary and relevancy',
           collapsed: false,
           items: [
-            // { text: 'Chapter I — Preliminary (ss. 1-2)', link: '/chapters/chapter-01' },
+            { text: 'Chapter I — Preliminary (ss. 1-2)', link: '/chapters/chapter-01' }
             // { text: 'Chapter II — Relevancy of Facts (ss. 3-50)', link: '/chapters/chapter-02' }
           ]
         },
-        { text: 'Proof: facts, oral and documentary evidence', collapsed: true, items: [] },
+        {
+          text: 'Proof: facts, oral and documentary evidence',
+          collapsed: true,
+          items: [
+            { text: 'Ch. V — Electronic records (ss. 61-63)', link: '/chapters/chapter-05' }
+          ]
+        },
         { text: 'Burden of proof and estoppel', collapsed: true, items: [] },
         { text: 'Witnesses and their examination', collapsed: true, items: [] },
         { text: 'Improper admission, repeal and savings', collapsed: true, items: [] }
