@@ -1,0 +1,19 @@
+{
+  "name": "bsa-practitioner-guide",
+  "version": "1.0.0",
+  "description": "Bharatiya Sakshya Adhiniyam, 2023 — a living digital bare Act with the Indian Evidence Act concordance.",
+  "type": "module",
+  "scripts": {
+    "dev": "vitepress dev docs",
+    "build": "vitepress build docs",
+    "preview": "vitepress preview docs",
+
+    "//": "Fallback scripts for a machine with no npm/node on PATH. Point .tooling/node at a working Node binary. Delete these if the environment is normal.",
+    "local:dev": "./.tooling/node node_modules/vitepress/bin/vitepress.js dev docs",
+    "local:build": "./.tooling/node node_modules/vitepress/bin/vitepress.js build docs"
+  },
+  "dependencies": {
+    "vitepress": "1.6.3"
+  },
+  "license": "MIT"
+}
