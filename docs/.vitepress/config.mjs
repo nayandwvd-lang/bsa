@@ -54,6 +54,7 @@ export default defineConfig({
         items: [
           // Fill in as chapters are written. Do not list a page before it exists.
           { text: 'Chapter I — Preliminary (ss. 1-2)', link: '/chapters/chapter-01' },
+          { text: 'Ch. II part I — Relevancy chain (ss. 3-14)', link: '/chapters/chapter-02a' },
           { text: 'Ch. V — Electronic records (ss. 61-63)', link: '/chapters/chapter-05' }
         ]
       },
@@ -68,8 +69,9 @@ export default defineConfig({
           text: 'Preliminary and relevancy',
           collapsed: false,
           items: [
-            { text: 'Chapter I — Preliminary (ss. 1-2)', link: '/chapters/chapter-01' }
-            // { text: 'Chapter II — Relevancy of Facts (ss. 3-50)', link: '/chapters/chapter-02' }
+            { text: 'Chapter I — Preliminary (ss. 1-2)', link: '/chapters/chapter-01' },
+            { text: 'Ch. II part I — Relevancy chain (ss. 3-14)', link: '/chapters/chapter-02a' }
+            // Remaining Chapter II sub-files (ss. 15-25, 26-33, 34-38, 39-45, 46-50) land here as they're written.
           ]
         },
         {
