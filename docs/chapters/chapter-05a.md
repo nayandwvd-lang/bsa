@@ -1,6 +1,6 @@
 # Chapter V (part I) — Of Documentary Evidence: primary and secondary evidence (ss. 56-60)
 
-Chapter V, "Of Documentary Evidence," runs ss. 56-93 and is one of the two chapters in the Act too long for a single file — the electronic-records certificate regime (ss. 61-63) already exists as `chapter-05.md`, written first as the project's pilot provision because it is the hardest sub-cluster in the chapter. This file goes back to the beginning of the chapter and covers the general primary/secondary evidence scheme that ss. 61-63 sit inside: what counts as primary evidence (s. 57), what counts as secondary evidence (s. 58), the default rule that primary evidence is required (s. 59), and the closed list of exceptions where secondary evidence is receivable instead (s. 60).
+Chapter V, "Of Documentary Evidence," runs ss. 56-93 and is one of the two chapters in the Act too long for a single file — the electronic-records certificate regime (ss. 61-63) already exists as `chapter-05b.md`, written first as the project's pilot provision because it is the hardest sub-cluster in the chapter. This file goes back to the beginning of the chapter and covers the general primary/secondary evidence scheme that ss. 61-63 sit inside: what counts as primary evidence (s. 57), what counts as secondary evidence (s. 58), the default rule that primary evidence is required (s. 59), and the closed list of exceptions where secondary evidence is receivable instead (s. 60).
 
 ## Sections 56 and 57 — proof of documents and what counts as primary evidence
 
@@ -105,12 +105,12 @@ No single authority is promoted here. The primary/secondary distinction is worke
 | Explanations 4-7 | Tender any qualifying electronic file or storage instance as primary, without needing to identify a single "master" file | Dispute whether the record was genuinely produced from proper custody under Explanation 5, since a disputed record loses that particular route |
 
 #### The limitation clock
-None of its own. As with the electronic-records certificate regime already covered in `chapter-05.md`, an objection to whether something tendered actually qualifies as primary evidence is a mode-of-proof objection, and should be raised when the evidence is tendered rather than saved for appeal.
+None of its own. As with the electronic-records certificate regime already covered in `chapter-05b.md`, an objection to whether something tendered actually qualifies as primary evidence is a mode-of-proof objection, and should be raised when the evidence is tendered rather than saved for appeal.
 
 #### Interlocking matrix
 | This provision | Interlocks with | Why |
 |---|---|---|
-| S. 57, Explanation 5 (electronic record from proper custody) | Ch. V, ss. 61-63 of this Act (`chapter-05.md`, electronic records) | Explanation 5's "unless it is disputed" qualifier and the s. 61-63 certificate regime both go to the reliability of an electronic record; a disputed record that loses Explanation 5's primary-evidence status will typically need to be proved instead through the s. 63 certificate route as secondary evidence |
+| S. 57, Explanation 5 (electronic record from proper custody) | Ch. V, ss. 61-63 of this Act (`chapter-05b.md`, electronic records) | Explanation 5's "unless it is disputed" qualifier and the s. 61-63 certificate regime both go to the reliability of an electronic record; a disputed record that loses Explanation 5's primary-evidence status will typically need to be proved instead through the s. 63 certificate route as secondary evidence |
 
 #### The authorities
 No confidently recalled leading authority is promoted for this section.
@@ -311,7 +311,7 @@ None of its own — but practically, clause (a)'s notice must be given, and a re
 |---|---|---|
 | S. 60, clause (a) | BSA s. 64 (notice to produce) — not yet written | Section 60(a) expressly cross-refers to the notice procedure in section 64; when s. 64 is written, it must supply the actual notice mechanics this gateway depends on |
 | S. 60, clause (e) | BSA s. 74 (public document, definition) — not yet written | Section 60(e) expressly cross-refers to section 74's definition of a public document; when s. 74 is written, it must supply the actual definition this gateway depends on |
-| S. 60, clauses (e)-(f) and Explanation clause (iii) (certified copies) | Ch. V of this Act, ss. 61-63 (`chapter-05.md`, electronic records) | Where the "original" in question is itself an electronic record, the certified-copy route here interacts with the certificate-based proof regime already covered for electronic records; a certifying authority for a public electronic record and the s. 63 certificate are not automatically the same thing and should not be conflated |
+| S. 60, clauses (e)-(f) and Explanation clause (iii) (certified copies) | Ch. V of this Act, ss. 61-63 (`chapter-05b.md`, electronic records) | Where the "original" in question is itself an electronic record, the certified-copy route here interacts with the certificate-based proof regime already covered for electronic records; a certifying authority for a public electronic record and the s. 63 certificate are not automatically the same thing and should not be conflated |
 
 #### The authorities
 No confidently recalled leading authority is promoted for this section.
