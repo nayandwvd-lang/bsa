@@ -66,7 +66,8 @@ export default defineConfig({
           { text: 'Ch. V part II — Electronic records (ss. 61-63)', link: '/chapters/chapter-05b' },
           { text: 'Ch. V part III — Notice, execution & comparison (ss. 64-73)', link: '/chapters/chapter-05c' },
           { text: 'Ch. V part IV — Public documents (ss. 74-77)', link: '/chapters/chapter-05d' },
-          { text: 'Ch. V part V — Presumptions I (ss. 78-85)', link: '/chapters/chapter-05e' }
+          { text: 'Ch. V part V — Presumptions I (ss. 78-85)', link: '/chapters/chapter-05e' },
+          { text: 'Ch. V part VI — Presumptions II (ss. 86-93)', link: '/chapters/chapter-05f' }
         ]
       },
       { text: 'Drafting toolkit', link: '/drafts/' }
@@ -100,7 +101,8 @@ export default defineConfig({
             { text: 'Ch. V part II — Electronic records (ss. 61-63)', link: '/chapters/chapter-05b' },
             { text: 'Ch. V part III — Notice, execution & comparison (ss. 64-73)', link: '/chapters/chapter-05c' },
             { text: 'Ch. V part IV — Public documents (ss. 74-77)', link: '/chapters/chapter-05d' },
-            { text: 'Ch. V part V — Presumptions I (ss. 78-85)', link: '/chapters/chapter-05e' }
+            { text: 'Ch. V part V — Presumptions I (ss. 78-85)', link: '/chapters/chapter-05e' },
+            { text: 'Ch. V part VI — Presumptions II (ss. 86-93)', link: '/chapters/chapter-05f' }
           ]
         },
         { text: 'Burden of proof and estoppel', collapsed: true, items: [] },
