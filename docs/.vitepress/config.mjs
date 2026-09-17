@@ -70,7 +70,8 @@ export default defineConfig({
           { text: 'Ch. V part VI — Presumptions II (ss. 86-93)', link: '/chapters/chapter-05f' },
           { text: 'Ch. VI — Exclusion of oral by documentary evidence (ss. 94-103)', link: '/chapters/chapter-06' },
           { text: 'Ch. VII part I — Burden of proof, general theory (ss. 104-114)', link: '/chapters/chapter-07a' },
-          { text: 'Ch. VII part II — Burden of proof, presumptions (ss. 115-120)', link: '/chapters/chapter-07b' }
+          { text: 'Ch. VII part II — Burden of proof, presumptions (ss. 115-120)', link: '/chapters/chapter-07b' },
+          { text: 'Ch. VIII — Estoppel (ss. 121-123)', link: '/chapters/chapter-08' }
         ]
       },
       { text: 'Drafting toolkit', link: '/drafts/' }
@@ -114,7 +115,8 @@ export default defineConfig({
           collapsed: true,
           items: [
             { text: 'Ch. VII part I — Burden of proof, general theory (ss. 104-114)', link: '/chapters/chapter-07a' },
-            { text: 'Ch. VII part II — Burden of proof, presumptions (ss. 115-120)', link: '/chapters/chapter-07b' }
+            { text: 'Ch. VII part II — Burden of proof, presumptions (ss. 115-120)', link: '/chapters/chapter-07b' },
+            { text: 'Ch. VIII — Estoppel (ss. 121-123)', link: '/chapters/chapter-08' }
           ]
         },
         { text: 'Witnesses and their examination', collapsed: true, items: [] },
