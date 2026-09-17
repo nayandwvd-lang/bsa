@@ -145,7 +145,17 @@ export default defineConfig({
         }
       ],
       '/drafts/': [
-        { text: 'Drafting toolkit', collapsed: false, items: [] }
+        {
+          text: 'Drafting toolkit',
+          collapsed: false,
+          items: [
+            { text: 'Overview', link: '/drafts/' },
+            { text: 'Objection to admissibility', link: '/drafts/objection-to-admissibility' },
+            { text: 'Model s. 63 certificate', link: '/drafts/certificate-s63' },
+            { text: 'Application to summon a document', link: '/drafts/application-to-summon-document' },
+            { text: 'Cross-examination checklist', link: '/drafts/cross-examination-checklist' }
+          ]
+        }
       ]
     },
 
