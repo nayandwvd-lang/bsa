@@ -55,6 +55,7 @@ export default defineConfig({
           // Fill in as chapters are written. Do not list a page before it exists.
           { text: 'Chapter I — Preliminary (ss. 1-2)', link: '/chapters/chapter-01' },
           { text: 'Ch. II part I — Relevancy chain (ss. 3-14)', link: '/chapters/chapter-02a' },
+          { text: 'Ch. II part II — Admissions & confessions (ss. 15-25)', link: '/chapters/chapter-02b' },
           { text: 'Ch. V — Electronic records (ss. 61-63)', link: '/chapters/chapter-05' }
         ]
       },
@@ -70,8 +71,9 @@ export default defineConfig({
           collapsed: false,
           items: [
             { text: 'Chapter I — Preliminary (ss. 1-2)', link: '/chapters/chapter-01' },
-            { text: 'Ch. II part I — Relevancy chain (ss. 3-14)', link: '/chapters/chapter-02a' }
-            // Remaining Chapter II sub-files (ss. 15-25, 26-33, 34-38, 39-45, 46-50) land here as they're written.
+            { text: 'Ch. II part I — Relevancy chain (ss. 3-14)', link: '/chapters/chapter-02a' },
+            { text: 'Ch. II part II — Admissions & confessions (ss. 15-25)', link: '/chapters/chapter-02b' }
+            // Remaining Chapter II sub-files (ss. 26-33, 34-38, 39-45, 46-50) land here as they're written.
           ]
         },
         {
