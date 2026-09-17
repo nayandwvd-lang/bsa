@@ -71,7 +71,9 @@ export default defineConfig({
           { text: 'Ch. VI — Exclusion of oral by documentary evidence (ss. 94-103)', link: '/chapters/chapter-06' },
           { text: 'Ch. VII part I — Burden of proof, general theory (ss. 104-114)', link: '/chapters/chapter-07a' },
           { text: 'Ch. VII part II — Burden of proof, presumptions (ss. 115-120)', link: '/chapters/chapter-07b' },
-          { text: 'Ch. VIII — Estoppel (ss. 121-123)', link: '/chapters/chapter-08' }
+          { text: 'Ch. VIII — Estoppel (ss. 121-123)', link: '/chapters/chapter-08' },
+          { text: 'Ch. IX part I — Competency & privilege I (ss. 124-131)', link: '/chapters/chapter-09a' },
+          { text: 'Ch. IX part II — Privilege II & accomplice (ss. 132-139)', link: '/chapters/chapter-09b' }
         ]
       },
       { text: 'Drafting toolkit', link: '/drafts/' }
@@ -119,7 +121,14 @@ export default defineConfig({
             { text: 'Ch. VIII — Estoppel (ss. 121-123)', link: '/chapters/chapter-08' }
           ]
         },
-        { text: 'Witnesses and their examination', collapsed: true, items: [] },
+        {
+          text: 'Witnesses and their examination',
+          collapsed: true,
+          items: [
+            { text: 'Ch. IX part I — Competency & privilege I (ss. 124-131)', link: '/chapters/chapter-09a' },
+            { text: 'Ch. IX part II — Privilege II & accomplice (ss. 132-139)', link: '/chapters/chapter-09b' }
+          ]
+        },
         { text: 'Improper admission, repeal and savings', collapsed: true, items: [] }
       ],
       '/drafts/': [
