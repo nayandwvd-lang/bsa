@@ -57,6 +57,7 @@ export default defineConfig({
           { text: 'Ch. II part I — Relevancy chain (ss. 3-14)', link: '/chapters/chapter-02a' },
           { text: 'Ch. II part II — Admissions & confessions (ss. 15-25)', link: '/chapters/chapter-02b' },
           { text: 'Ch. II part III — Unavailable-witness statements (ss. 26-33)', link: '/chapters/chapter-02c' },
+          { text: 'Ch. II part IV — Judgments (ss. 34-38)', link: '/chapters/chapter-02d' },
           { text: 'Ch. V — Electronic records (ss. 61-63)', link: '/chapters/chapter-05' }
         ]
       },
@@ -74,8 +75,9 @@ export default defineConfig({
             { text: 'Chapter I — Preliminary (ss. 1-2)', link: '/chapters/chapter-01' },
             { text: 'Ch. II part I — Relevancy chain (ss. 3-14)', link: '/chapters/chapter-02a' },
             { text: 'Ch. II part II — Admissions & confessions (ss. 15-25)', link: '/chapters/chapter-02b' },
-            { text: 'Ch. II part III — Unavailable-witness statements (ss. 26-33)', link: '/chapters/chapter-02c' }
-            // Remaining Chapter II sub-files (ss. 34-38, 39-45, 46-50) land here as they're written.
+            { text: 'Ch. II part III — Unavailable-witness statements (ss. 26-33)', link: '/chapters/chapter-02c' },
+            { text: 'Ch. II part IV — Judgments (ss. 34-38)', link: '/chapters/chapter-02d' }
+            // Remaining Chapter II sub-files (ss. 39-45, 46-50) land here as they're written.
           ]
         },
         {
