@@ -63,7 +63,8 @@ export default defineConfig({
           { text: 'Ch. III — Facts which need not be proved (ss. 51-53)', link: '/chapters/chapter-03' },
           { text: 'Ch. IV — Oral evidence (ss. 54-55)', link: '/chapters/chapter-04' },
           { text: 'Ch. V part I — Primary & secondary evidence (ss. 56-60)', link: '/chapters/chapter-05a' },
-          { text: 'Ch. V part II — Electronic records (ss. 61-63)', link: '/chapters/chapter-05b' }
+          { text: 'Ch. V part II — Electronic records (ss. 61-63)', link: '/chapters/chapter-05b' },
+          { text: 'Ch. V part III — Notice, execution & comparison (ss. 64-73)', link: '/chapters/chapter-05c' }
         ]
       },
       { text: 'Drafting toolkit', link: '/drafts/' }
@@ -94,7 +95,8 @@ export default defineConfig({
             { text: 'Ch. III — Facts which need not be proved (ss. 51-53)', link: '/chapters/chapter-03' },
             { text: 'Ch. IV — Oral evidence (ss. 54-55)', link: '/chapters/chapter-04' },
             { text: 'Ch. V part I — Primary & secondary evidence (ss. 56-60)', link: '/chapters/chapter-05a' },
-            { text: 'Ch. V part II — Electronic records (ss. 61-63)', link: '/chapters/chapter-05b' }
+            { text: 'Ch. V part II — Electronic records (ss. 61-63)', link: '/chapters/chapter-05b' },
+            { text: 'Ch. V part III — Notice, execution & comparison (ss. 64-73)', link: '/chapters/chapter-05c' }
           ]
         },
         { text: 'Burden of proof and estoppel', collapsed: true, items: [] },
