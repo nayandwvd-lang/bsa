@@ -47,7 +47,6 @@ export default defineConfig({
     nav: [
       { text: 'Home', link: '/' },
       { text: 'Start here', link: '/start-here' },
-      { text: 'IEA → BSA', link: '/concordance' },
       { text: 'Glossary', link: '/glossary' },
       {
         text: 'Chapters',

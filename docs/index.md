@@ -9,9 +9,6 @@ hero:
     - theme: brand
       text: Start here
       link: /start-here
-    - theme: alt
-      text: IEA → BSA concordance
-      link: /concordance
 features:
   - title: Zero-presumption bare Act
     details: Every provision opens on the human dispute it resolves, not the section number, before the statutory text is decompiled clause by clause.
