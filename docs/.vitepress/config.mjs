@@ -76,7 +76,8 @@ export default defineConfig({
           { text: 'Ch. IX part II — Privilege II & accomplice (ss. 132-139)', link: '/chapters/chapter-09b' },
           { text: 'Ch. X part I — Order & leading questions (ss. 140-146)', link: '/chapters/chapter-10a' },
           { text: 'Ch. X part II — Document contents & cross-exam limits (ss. 147-155)', link: '/chapters/chapter-10b' },
-          { text: 'Ch. X part III — Corroboration, memory & production (ss. 156-168)', link: '/chapters/chapter-10c' }
+          { text: 'Ch. X part III — Corroboration, memory & production (ss. 156-168)', link: '/chapters/chapter-10c' },
+          { text: 'Ch. XI-XII — Improper admission, repeal & savings (ss. 169-170)', link: '/chapters/chapter-11' }
         ]
       },
       { text: 'Drafting toolkit', link: '/drafts/' }
@@ -135,7 +136,13 @@ export default defineConfig({
             { text: 'Ch. X part III — Corroboration, memory & production (ss. 156-168)', link: '/chapters/chapter-10c' }
           ]
         },
-        { text: 'Improper admission, repeal and savings', collapsed: true, items: [] }
+        {
+          text: 'Improper admission, repeal and savings',
+          collapsed: true,
+          items: [
+            { text: 'Ch. XI-XII — Improper admission, repeal & savings (ss. 169-170)', link: '/chapters/chapter-11' }
+          ]
+        }
       ],
       '/drafts/': [
         { text: 'Drafting toolkit', collapsed: false, items: [] }
