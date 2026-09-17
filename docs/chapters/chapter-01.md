@@ -221,7 +221,7 @@ Every later chapter uses these words as tools, not as ordinary English. "Proved,
 
 ::: proviso "Document" and "evidence" now say the word "electronic" out loud — and that sentence is doing real work
 
-Before this Act, whether a printout, an email, or a smartphone recording was a "document" at all rested on judicial interpretation of the old Act's general definition. Section 2(1)(d) closes that question by express words: "document" now expressly "includes electronic and digital records," and section 2(1)(e) says the same of "evidence," naming "statements given electronically" as oral evidence and "electronic or digital records" as documentary evidence. This is the definitional foundation the entire sections 61–63 certificate regime is built on — see [Sections 61 to 63](/chapters/chapter-05) for how a record that qualifies as a "document" under this section is actually admitted.
+Before this Act, whether a printout, an email, or a smartphone recording was a "document" at all rested on judicial interpretation of the old Act's general definition. Section 2(1)(d) closes that question by express words: "document" now expressly "includes electronic and digital records," and section 2(1)(e) says the same of "evidence," naming "statements given electronically" as oral evidence and "electronic or digital records" as documentary evidence. This is the definitional foundation the entire sections 61–63 certificate regime is built on — see [Sections 61 to 63](/chapters/chapter-05b) for how a record that qualifies as a "document" under this section is actually admitted.
 :::
 
 ### How this actually runs
