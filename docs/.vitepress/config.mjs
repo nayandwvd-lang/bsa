@@ -60,6 +60,7 @@ export default defineConfig({
           { text: 'Ch. II part IV — Judgments (ss. 34-38)', link: '/chapters/chapter-02d' },
           { text: 'Ch. II part V — Opinions of experts (ss. 39-45)', link: '/chapters/chapter-02e' },
           { text: 'Ch. II part VI — Character evidence (ss. 46-50)', link: '/chapters/chapter-02f' },
+          { text: 'Ch. III — Facts which need not be proved (ss. 51-53)', link: '/chapters/chapter-03' },
           { text: 'Ch. V — Electronic records (ss. 61-63)', link: '/chapters/chapter-05' }
         ]
       },
@@ -88,6 +89,7 @@ export default defineConfig({
           text: 'Proof: facts, oral and documentary evidence',
           collapsed: true,
           items: [
+            { text: 'Ch. III — Facts which need not be proved (ss. 51-53)', link: '/chapters/chapter-03' },
             { text: 'Ch. V — Electronic records (ss. 61-63)', link: '/chapters/chapter-05' }
           ]
         },
